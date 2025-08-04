@@ -49,21 +49,29 @@ State of Oregon Statutes .
 Article I—Name 
 The name of this corporation is Haircuts for Hounds Inc.
 
-Article II—Longevity s 
-This corporation shall exist indefinitely unless  dissolved.
+Article II—Duration and Dissolution
+This corporation shall exist perpetually unless dissolved. Upon dissolution of the corporation, assets shall be distributed for one or more exempt purposes within the meaning of section 501(c)(3) of the Internal Revenue Code, or shall be distributed to the federal government, or to a state or local government, for a public purpose. Any such assets not so disposed of shall be disposed of by a court of competent jurisdiction in the county in which the principal office of the corporation is then located, exclusively for such purposes or to such organization(s) as said court shall determine.
 
-Article III—Purpose (There are two parts that must be included in this article: your mission statement and your statement of exempt purpose under the IRS Code. Plugging in your mission statement to define your purpose is easy enough. The state authorities and the IRS will review this section to help them determine whether your organization qualifies as a charitable entity. Remember, a 501(c)(3) must be organized for a charitable, religious, literacy, or scientific purpose.)
+Article III—Purpose
+This corporation is organized exclusively for charitable and educational purposes under Section 501(c)(3) of the Internal Revenue Code, including:
+1. Providing affordable professional hair services to the community
+2. Supporting canine welfare through donations and partnerships with animal rescue organizations
+3. Educating the public about responsible pet ownership and animal welfare
 
-This corporation is established to provide the community with affordable and professional hair services, while at the same time, making it easier for people to give back to our beloved canine friends in our community
-
-This corporation’s sole purpose of operation is for charitable and educational purposes. All funds, whether it be from income, principal, gift, contribution or otherwise, shall be devoted to said purposes.
-Article IV—Agent of the Corporation 
-Haircut for Hounds 3753 SE Madison ST Portland OR, 97214 address to agent of corporation
-Vincent Alarid.
-Article V—Directors (Although this may change over time, for now put the directors' names and addresses here. Though different states have different requirements, many nonprofits start with up to three initial directors). 
-Vincent Alarid - President CEO
-Sera Belle - Vice President
-Anniki Kandoll - Vice President
+No part of the net earnings of the corporation shall inure to the benefit of, or be distributable to its members, trustees, officers, or other private persons, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth herein.
+Article IV—Registered Agent
+The initial registered agent of the corporation is:
+Vincent Alarid
+3753 SE Madison St
+Portland, OR 97214
+Article V—Directors
+The initial board of directors consists of:
+1. Vincent Alarid (President)
+   Address: 3753 SE Madison St, Portland, OR 97214
+2. Sera Belle (Vice President)
+   [Address to be provided]
+3. Anniki Kandoll (Vice President)
+   [Address to be provided]
 Article VI—Incorporator 
 Vincent Alarid, 3753 SE Madison ST 
 Portland, Oregon, 97214.
@@ -71,6 +79,10 @@ The undersigned incorporator certifies both that she executes these articles for
 Article VII—Members 
 This corporation has no members.
  
-Article VIII—Your Choice (From here you can choose how many more articles you want to have. Most states give you the latitude to add additional provisions. Maybe you want to put in a special election rule or liability waiver? Careful, careful, careful! The only way you can make an amendment [change] to your articles of incorporation is through a majority vote of your membership. If you have a voting membership of over 500, that's going to be quite a task!)
+Article VIII—Amendments
+These Articles may be amended by a two-thirds vote of the Board of Directors at any regular or special meeting, provided that written notice of the proposed amendment is given to all directors at least 30 days prior to the meeting.
+
+Article IX—Non-Discrimination Policy
+The corporation shall not discriminate against any individual on the basis of race, color, religion, sex, national origin, age, disability, or any other characteristic protected by law.
 Our Journey started a long time ago and, also fairly recent. My whole life, as far back as I can remember. I have always loved dogs. There has not been a time in my life that I have been without a dog for too long. 
 In my early 20’s I started to work with dogs professionally. It started at a doggy daycare, then went on to training and grooming. All the while being a huge advocate for rescue, spay and neuter as well as fostering. Working with many animal organizations here in the Pacific northwest, I learned a lot about working in the rescue Industry and what it takes to be a successful animal rescue agency. Now, if there was one thing I know more about than dogs, it would be hair. At 12 years old, I got my first job sweeping hair at my aunt's beauty salon during summer break. I stayed working with my aunt for past high school. Then in 2006 I packed my two dogs up and moved to Portland, Oregon. Now after nearly 2 decades of living here, I am ready to start my dream of having a greater social impact in a positive way by help our furry friends and the people who love them.
