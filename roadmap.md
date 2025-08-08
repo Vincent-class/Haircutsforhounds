@@ -18,14 +18,20 @@
 
 ## Phase 2: Legal Formation (Dependent on Phase 1)
 ### Incorporation
-- [ ] Choose state of incorporation
-- [ ] Draft articles of incorporation
+- [x] Choose state of incorporation (Oregon)
+- [x] Draft articles of incorporation
 - [ ] File incorporation paperwork
 
-### Tax Exemption
-- [ ] Complete Form 1023 (501(c)(3) application)
-- [ ] Obtain EIN from IRS
-- [ ] Apply for state tax exemptions
+### Tax Exemption (Current Priority)
+- [ ] Complete Form 1023 (501(c)(3) application) - REQUIRES: 
+  - Bylaws 
+  - Articles of Incorporation 
+  - Financial Projections
+  - Conflict of Interest Policy
+- [ ] Obtain EIN from IRS (Form SS-4) - Can be done immediately online
+- [ ] Apply for state tax exemptions (Oregon)
+- [ ] Register with Oregon DOJ Charitable Activities Section
+- [ ] Draft Conflict of Interest Policy
 
 ## Phase 3: Operations Setup
 ### Location & Equipment

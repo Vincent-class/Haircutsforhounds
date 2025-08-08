@@ -1,8 +1,7 @@
-# Haircutsforhounds
+# Haircuts for Hounds
 Dog rescue nonprofit barbershop
-https://www.google.com/search?client=safari&sca_esv=fd9de876da70e2b5&channel=ipad_bm&cs=0&sxsrf=AE3TifMrNFCPutChWTD2qQydMZm511Ffbg%3A1754334323428&q=Articles+of+Incorporation&sa=X&ved=2ahUKEwimx-HQ7PGOAxUJGzQIHRgaAi0QxccNegQIMRAD&mstk=AUtExfAV3UVbxWs_x3JjX50HVxFd3uqpjKnHlzrAtW9SZQiAqBopj3-T4fB7uYMyrKI8kz60NHxFtfgSFLL-HAKuUY2fwTtjzrgK_crVLeW9RPmpG5vjCEAouOocdzBTV6SRqB5y9Tqh6QZxZhAJ8QkOTcDDmTYyLXYN0yNwBATO-t_fU9c&csui=3
-By-Laws
-articles of incorporation
+
+## Legal Documents
 1. Legal Documents:
 Articles of Incorporation:
 .
