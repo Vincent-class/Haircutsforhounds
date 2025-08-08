@@ -49,7 +49,7 @@ Article I—Name
 The name of this corporation is Haircuts for Hounds Inc.
 
 Article II—Duration and Dissolution
-This corporation shall exist perpetually unless dissolved. Upon dissolution of the corporation, assets shall be distributed for one or more exempt purposes within the meaning of section 501(c)(3) of the Internal Revenue Code, or shall be distributed to the federal government, or to a state or local government, for a public purpose. Any such assets not so disposed of shall be disposed of by a court of competent jurisdiction in the county in which the principal office of the corporation is then located, exclusively for such purposes or to such organization(s) as said court shall determine.
+This corporation shall exist perpetually unless dissolved. Upon dissolution of the corporation, assets shall be distributed for one or more exempt purposes within the meaning of section 501(c)(3) of the Internal Revenue Code. Any such assets not so disposed of shall be disposed of by a court of competent jurisdiction in the county in which the principal office of the corporation is then located, exclusively for such purposes or to such organization(s) as said court shall determine.
 
 Article III—Purpose
 This corporation is organized exclusively for charitable and educational purposes under Section 501(c)(3) of the Internal Revenue Code, including:
@@ -74,7 +74,7 @@ The initial board of directors consists of:
 Article VI—Incorporator 
 Vincent Alarid, 3753 SE Madison ST 
 Portland, Oregon, 97214.
-The undersigned incorporator certifies both that she executes these articles for the purposes herein stated, and that by such execution, she affirms the understanding that should any of the information in these articles be intentionally or knowingly misstated, he is subject to the criminal penalties for perjury set forth in Oregon Statute 609.48 as if this document had been executed under oath.
+The undersigned incorporator certifies both that she/he executes these articles for the purposes herein stated, and that by such execution, he/she affirms the understanding that should any of the information in these articles be intentionally or knowingly misstated, he is subject to the criminal penalties for perjury set forth in Oregon Statute 609.48 as if this document had been executed under oath.
 Article VII—Members 
 This corporation has no members.
  
