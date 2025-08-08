@@ -1,4 +1,4 @@
-# Bylaws of Haircuts for Hounds Inc.
+97 Bylaws of Haircuts for Hounds Inc.
 
 ## Article I: Name and Purpose
 ### Section 1. Name
@@ -48,7 +48,7 @@ The officers shall be President, Vice President, Secretary, and Treasurer.
 
 ## Article V: Committees
 ### Section 1. Standing Committees
-The Board may establish standing committees including:
+The Board may establish standing committees including but not limited to:
 - Finance Committee
 - Operations Committee
 - Dog Welfare Committee
